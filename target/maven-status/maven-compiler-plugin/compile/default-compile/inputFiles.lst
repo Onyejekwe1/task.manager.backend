@@ -1,0 +1,8 @@
+/Users/ifeanyionyejekwe/Downloads/task.manager/src/main/java/com/avow/task/manager/Application.java
+/Users/ifeanyionyejekwe/Downloads/task.manager/src/main/java/com/avow/task/manager/entity/Task.java
+/Users/ifeanyionyejekwe/Downloads/task.manager/src/main/java/com/avow/task/manager/service/TaskService.java
+/Users/ifeanyionyejekwe/Downloads/task.manager/src/main/java/com/avow/task/manager/exception/GlobalExceptionHandler.java
+/Users/ifeanyionyejekwe/Downloads/task.manager/src/main/java/com/avow/task/manager/controller/TaskController.java
+/Users/ifeanyionyejekwe/Downloads/task.manager/src/main/java/com/avow/task/manager/contract/TaskDto.java
+/Users/ifeanyionyejekwe/Downloads/task.manager/src/main/java/com/avow/task/manager/exception/ResourceNotFoundException.java
+/Users/ifeanyionyejekwe/Downloads/task.manager/src/main/java/com/avow/task/manager/repository/TaskRepository.java

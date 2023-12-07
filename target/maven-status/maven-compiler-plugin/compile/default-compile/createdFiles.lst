@@ -1,0 +1,9 @@
+com/avow/task/manager/repository/TaskRepository.class
+com/avow/task/manager/exception/GlobalExceptionHandler.class
+com/avow/task/manager/entity/Task$TaskBuilder.class
+com/avow/task/manager/exception/ResourceNotFoundException.class
+com/avow/task/manager/service/TaskService.class
+com/avow/task/manager/contract/TaskDto.class
+com/avow/task/manager/entity/Task.class
+com/avow/task/manager/Application.class
+com/avow/task/manager/controller/TaskController.class
